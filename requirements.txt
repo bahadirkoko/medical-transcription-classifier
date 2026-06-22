@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+xgboost
+sentence-transformers
+chromadb
+joblib
+jupyter
+ipykernel
+# faiss-cpu   # uncomment this and remove chromadb if you prefer FAISS
